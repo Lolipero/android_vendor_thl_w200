@@ -1,1 +1,1 @@
-# android_vendor_thl
+# Vendor_for_thl
