@@ -52,6 +52,35 @@ PRODUCT_COPY_FILES += \
     vendor/ThL/W200/proprietary/etc/firmware/mt6628/mt6628_fm_v4_patch.bin:system/etc/firmware/mt6628/mt6628_fm_v4_patch.bin \
     vendor/ThL/W200/proprietary/etc/firmware/mt6628/mt6628_fm_v5_coeff.bin:system/etc/firmware/mt6628/mt6628_fm_v5_coeff.bin \
     vendor/ThL/W200/proprietary/etc/firmware/mt6628/mt6628_fm_v5_patch.bin:system/etc/firmware/mt6628/mt6628_fm_v5_patch.bin \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.bluetooth.xml:system/etc/permissions/android.hardware.bluetooth.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.camera.xml:system/etc/permissions/android.hardware.camera.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.faketouch.xml:system/etc/permissions/android.hardware.faketouch.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.location.gps.xml:system/etc/permissions/android.hardware.location.gps.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.microphone.xml:system/etc/permissions/android.hardware.microphone.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.sensor.accelerometer.xml:system/etc/permissions/android.hardware.sensor.accelerometer.xmll \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.sensor.compass.xml:system/etc/permissions/android.hardware.sensor.compass.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.sensor.light.xml:system/etc/permissions/android.hardware.sensor.light.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.sensor.proximity.xml:system/etc/permissions/android.hardware.sensor.proximity.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.telephony.gsm.xml:system/etc/permissions/android.hardware.telephony.gsm.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.touchscreen.multitouch.distinct.xml:system/etc/permissions/android.hardware.touchscreen.multitouch.distinct.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml:system/etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.touchscreen.multitouch.xml:system/etc/permissions/android.hardware.touchscreen.multitouch.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.touchscreen.xml:system/etc/permissions/android.hardware.touchscreen.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.usb.accessory.xml:system/etc/permissions/android.hardware.usb.accessory.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.usb.host.xml:system/etc/permissions/android.hardware.usb.host.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.wifi.direct.xml:system/etc/permissions/android.hardware.wifi.direct.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.hardware.wifi.xml:system/etc/permissions/android.hardware.wifi.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.software.live_wallpaper.xml:system/etc/permissions/android.software.live_wallpaper.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.software.sip.voip.xml:system/etc/permissions/android.software.sip.voip.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/android.software.sip.xml:system/etc/permissions/android.software.sip.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/com.android.location.provider.xml:system/etc/permissions/com.android.location.provider.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/features.xml:system/etc/permissions/features.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/handheld_core_hardware.xml:system/etc/permissions/handheld_core_hardware.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/media_codecs.xml:system/etc/permissions/media_codecs.xml \
+    vendor/ThL/W200/proprietary/etc/permissions/platform.xml:system/etc/permissions/platform.xml \
     vendor/ThL/W200/proprietary/bin/6620_launcher:system/bin/6620_launcher \
     vendor/ThL/W200/proprietary/bin/6620_wmt_concurrency:system/bin/6620_wmt_concurrency \
     vendor/ThL/W200/proprietary/bin/abcc:system/bin/abcc \
